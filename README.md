@@ -10,11 +10,7 @@ Looking for a way to manage your hotel's room inventory with ease? Check out thi
 ### Note:-
 This project is in developmental phase, it's not ready for production.
 
-## Installation
 
-1)	Download django
-```
-pip3 install django
 ```
 
 ## Execution
@@ -30,5 +26,3 @@ python3 manage.py runserver
 ## Languages and tools used:
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-## Authors
-[@abhineetraj1](http://github.com/abhineetraj1/)
